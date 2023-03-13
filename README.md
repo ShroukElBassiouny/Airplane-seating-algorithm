@@ -6,4 +6,4 @@ A program that helps seat audiences	in a flight based on the following input and
 ## Input to the program	will be		
 - A	2D array that represents the rows and columns[ [3,4],[4,5],[2,3],[3,4] ].
 - Number of passengers waiting in queue.
-## you can try [here](https://airplane-seating-algorithm-five.vercel.app/)
+You can try [Here](https://airplane-seating-algorithm-five.vercel.app/)
